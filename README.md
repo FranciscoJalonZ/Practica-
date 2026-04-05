@@ -1,17 +1,16 @@
-# practica
+# Flutter de Francisco
 
-A new Flutter project.
+## Descripción
+Aplicación básica desarrollada con Flutter como práctica de configuración
+del entorno, navegación entre pantallas y uso de widgets fundamentales.
 
-## Getting Started
+## Características
+- Contador interactivo
+- SnackBar al presionar botón
+- Navegación entre dos pantallas
 
-This project is a starting point for a Flutter application.
+## Capturas
+[Flutter corriendo en Webpage](image.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autor
+Francisco Jalon Z   2026.
